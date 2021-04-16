@@ -1,2 +1,3 @@
 # Flash-AN106
-Source code for app note AN106
+
+These souce and binary files are collateral for Dialog app note AN106. They are referred to from the app note document.
